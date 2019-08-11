@@ -1,4 +1,4 @@
-# blogging
+# Goals
 This repository is my own small project which purpose is to improve my abilities in python. 
 
 ## Plans 
